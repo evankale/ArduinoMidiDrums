@@ -1,6 +1,6 @@
 # ArduinoMidiDrums
 
-See Demo:
+See a demo video here:
 https://youtu.be/vi-w_WqJjzQ
 
 A velocity sensitive MIDI drum program with realistic feedback.
