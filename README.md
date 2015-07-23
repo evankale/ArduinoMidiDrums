@@ -1,4 +1,8 @@
 # ArduinoMidiDrums
+- Author: Evan Kale
+- Email: evankale91@gmail.com
+- Web: ISeeDeadPixel.com
+- Blog: evankale.blogspot.ca
 
 See a demo video here:
 https://youtu.be/vi-w_WqJjzQ
